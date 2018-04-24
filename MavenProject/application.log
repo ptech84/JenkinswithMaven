@@ -1,0 +1,82 @@
+2018-04-24 18:04:15,067  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:04:15,856  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:04:15,857  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:05:06,518  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:05:32,047  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,146  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,173  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,225  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,226  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,233  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:32,245  INFO [main] LoginTest:119 - Starting Search EmailAddress test case
+2018-04-24 18:05:54,608  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:54,610  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:56,157  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:56,158  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:05:58,180  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:05:58,182  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:06:07,249  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:06:17,110  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,111  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,112  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,128  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,129  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,136  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:17,144  INFO [main] LoginTest:108 - navigating to contacts page
+2018-04-24 18:06:38,595  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:38,597  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:06:40,766  INFO [main] LoginTest:112 - selecting the title in contacts page
+2018-04-24 18:06:43,802  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:06:43,803  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:06:58,399  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:07:08,444  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,446  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,447  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,464  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,464  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,469  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:08,473  INFO [main] LoginTest:100 - navigating to contacts page
+2018-04-24 18:07:29,634  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:29,635  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:07:33,193  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:07:33,194  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:07:40,765  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:08:28,130  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,132  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,132  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,141  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,142  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,147  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:28,151  INFO [main] LoginTest:92 - ****************************** Started Login to FreeCRM Tes Case   *****************************************
+2018-04-24 18:08:49,516  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:49,518  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:08:50,975  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:08:50,975  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:08:59,057  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:09:08,576  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,577  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,579  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,588  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,591  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,597  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:08,600  INFO [main] LoginTest:84 - ****************************** verifying logo *****************************************
+2018-04-24 18:09:09,932  INFO [main] LoginTest:60 - ****************************** Starting test cases execution  *****************************************
+2018-04-24 18:09:09,932  INFO [main] TestBase:45 - initializing the browser
+2018-04-24 18:09:17,993  INFO [main] TestBase:60 - Opening FF Browser
+2018-04-24 18:09:26,779  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,782  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,782  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,793  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,793  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,798  INFO [main] TestBase:32 - initiating the property file objects to prop variable
+2018-04-24 18:09:26,813  INFO [main] LoginTest:72 - verifying page title using log4j
+2018-04-24 18:09:28,018 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-04-24 18:09:28,019 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-04-24 18:09:28,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-04-24 18:09:28,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-04-24 18:09:28,023 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/e3009192/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-04-24 18:09:28,326 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-04-24 18:09:28,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-04-24 18:09:28,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-04-24 18:09:28,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-04-24 18:09:28,328 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/e3009192/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
